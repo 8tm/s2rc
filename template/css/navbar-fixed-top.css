@@ -1,0 +1,30 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+*
+{
+ -webkit-box-sizing: border-box;
+ -moz-box-sizing: border-box;
+ box-sizing: border-box;
+ padding: 0; 
+ margin: 0; 
+}
+
+.centre
+{
+ text-align: center;
+}
+
+textarea
+{
+ left: 0; 
+ top: 0; 
+ right: 0;
+ bottom: 50px;
+ width: 100%;
+ border:1px solid #333333;
+ background-color:#efefef;
+ padding:10px;
+}
